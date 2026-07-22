@@ -49,7 +49,7 @@ If you receive an item that is significantly different from what was described, 
 
 1. **Contact the Seller directly** — most issues can be resolved quickly through direct communication, since the Seller's business name is visible on your checkout page.
 2. **Do not confirm delivery** if you have not received the item or are not satisfied — this prevents premature release of funds.
-3. **Contact Orderly Support** at [Your Support Email] with your order number and a description of the issue before the 48-hour auto-release window elapses. We will review the transaction details available to us (timestamps, payment confirmation, order status) and advise on next steps.
+3. **Contact Orderly Support** at help@orderlypay.app with your order number and a description of the issue before the 48-hour auto-release window elapses. We will review the transaction details available to us (timestamps, payment confirmation, order status) and advise on next steps.
 
 Please note that Orderly does not currently offer refunds directly, as we are not a party to the sale itself. Our role is limited to holding and releasing payment based on delivery confirmation.
 
