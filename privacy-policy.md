@@ -101,5 +101,4 @@ We may update this Privacy Policy from time to time. Material changes will be co
 
 If you have questions about this Privacy Policy or how your information is handled, contact us at:
 
-**[Your Support Email]**
-**[Your Company Address]**
+**help@orderlypay.app**
