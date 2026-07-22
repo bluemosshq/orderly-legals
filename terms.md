@@ -1,6 +1,6 @@
 # Terms of Service
 
-**Last updated: [Insert Date]**
+**Last updated: 22-06-2026**
 
 Welcome to Orderly. These Terms of Service ("Terms") govern your access to and use of the Orderly mobile application, website, and related services (collectively, the "Service"), operated by [Your Company Legal Name] ("Orderly," "we," "us," or "our").
 
@@ -115,5 +115,4 @@ These Terms are governed by the laws of the Federal Republic of Nigeria, without
 
 If you have questions about these Terms, please contact us at:
 
-**[Your Support Email]**
-**[Your Company Address]**
+**help@orderlypay.app**
